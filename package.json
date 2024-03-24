@@ -1,14 +1,14 @@
 {
-  "name": "use-sound",
-  "author": "Josh Comeau",
-  "version": "4.0.1",
-  "module": "dist/use-sound.esm.js",
+  "name": "speakitsound",
+  "author": "Simon Weniger",
+  "version": "0.0.2",
+  "module": "dist/speakitsound.esm.js",
   "exports": {
     "import": "./dist/use-sound.esm.js",
     "types": "./dist/index.d.ts",
     "require": "./dist/index.js"
   },
-  "repository": "github:joshwcomeau/use-sound",
+  "repository": "github:simonweniger/speakitsound",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
